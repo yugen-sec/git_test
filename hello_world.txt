@@ -1,1 +1,1 @@
-Modifying this to check the output in VSCode
+Modifying this to check the output in VSCodechecking the commit messages in VSCode
